@@ -6,6 +6,15 @@
 //  Copyright © 2016 London App Brewery. All rights reserved.
 //
 
+/*
+ to do:
+ 
+ * make it play all when trailing/swiping finger across
+ * allow it to save tunes
+ * allow it to send tunes to people
+ 
+ */
+
 import UIKit
 import AVFoundation
 

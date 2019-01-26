@@ -128,7 +128,7 @@
 				TargetAttributes = {
 					63C019C41C58DF76001F4187 = {
 						CreatedOnToolsVersion = 7.2;
-						DevelopmentTeam = N3W42HA5K3;
+						DevelopmentTeam = 5GATU7QGP2;
 						LastSwiftMigration = 0900;
 					};
 				};
@@ -309,10 +309,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = N3W42HA5K3;
+				DEVELOPMENT_TEAM = 5GATU7QGP2;
 				INFOPLIST_FILE = Xylophone/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.SambaBlondieSpeaks.Xylophone.iOS;
+				PRODUCT_BUNDLE_IDENTIFIER = com.SambaBlondie.Xylophone.iOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
 				SWIFT_VERSION = 4.2;
@@ -323,10 +323,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = N3W42HA5K3;
+				DEVELOPMENT_TEAM = 5GATU7QGP2;
 				INFOPLIST_FILE = Xylophone/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.SambaBlondieSpeaks.Xylophone.iOS;
+				PRODUCT_BUNDLE_IDENTIFIER = com.SambaBlondie.Xylophone.iOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
